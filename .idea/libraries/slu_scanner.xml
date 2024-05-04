@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="slu-scanner">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Java Libraries/slu-scanner.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Java Libraries/slu-stackmachine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Java Libraries/slu-stackmachine.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Java Libraries/slu-scanner.jar!/" />
+    </SOURCES>
+  </library>
+</component>
